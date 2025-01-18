@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime panic in Rust: an out-of-bounds vector access.  The `bug.rs` file contains code that will panic when run. The `bugSolution.rs` file shows how to safely handle this situation using `get()` for safe access.
